@@ -1,0 +1,5 @@
+- Added pdf viewing support
+- Added search support through files
+- Added watch history
+- Added continue watching support
+
