@@ -21,8 +21,8 @@ from telethon import TelegramClient
 
 
 # ── Credentials ───────────────────────────────────────────────
-api_id   = 3477714
-api_hash = '1264d2d7d397c4635147ee25ab5808d1'
+api_id   = 3477714 # replace with your api_id from telegram.org
+api_hash = '1264d2d7d397c4635147ee25ab5808d1' # replace with your api_hash from telegram.org
 #CHANNEL_ID = -1002792665255   # replace with your private channel ID
 # ──────────────────────────────────────────────────────────────
 
